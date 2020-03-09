@@ -29,3 +29,5 @@
 #![AltText](https://github.com/najmi10/Modul-3-4/blob/master/rumusenergi.png "Hasil Empat Belas")
 # Hasil 15
 #![AltText](https://github.com/najmi10/Modul-3-4/blob/master/hasilkinetik.png "Hasil Lima Belas")
+# Hasil 16
+#![AltText](https://github.com/najmi10/Modul-3-4/blob/master/hasilpotensial.png "Hasil Enam Belas")
