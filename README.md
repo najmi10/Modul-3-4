@@ -1,6 +1,6 @@
 # Modul-3-4
 # Hasil 1
-#![AltText](https://github.com/najmi10/Modul-3-4/blob/master/lat1-3.png "Hasil Satu")
+#![AltText](https://github.com/najmi10/Modul-3-4/blob/master/lat1-3.png "")
 # Hasil 2
 #![AltText](https://github.com/najmi10/Modul-3-4/blob/master/lat2-3.png "Hasil Dua")
 # Hasil 3
